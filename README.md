@@ -1,16 +1,22 @@
-## Hi there 👋
+Hi, I'm Natasha Ilyas 👋
 
-<!--
-**natasha017/natasha017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MERN Stack Developer
 
-Here are some ideas to get you started:
+I'm a passionate web developer focused on building full-stack web applications using the MERN stack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning and building projects with the MERN stack.
+- 💻 Working with React.js, Node.js, Express.js, and MongoDB.
+- 🔐 Interested in authentication, REST APIs, and secure web applications.
+- 🚀 Building projects to improve my full-stack development skills.
+
+🛠️ Tech Stack
+
+- **Frontend:** HTML, CSS, JavaScript, React.js
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB, Mongoose
+- **Tools:** Git, GitHub, VS Code
+
+🤝 Connect With Me
+-LinkedIn:https://www.linkedin.com/in/natasha-ilyas-639210390/?isSelfProfile=true
+
+Thanks for visiting my profile!
